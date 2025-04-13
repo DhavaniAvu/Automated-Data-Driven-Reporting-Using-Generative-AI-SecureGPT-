@@ -24,7 +24,6 @@ We aim to solve these issues with **SecureGPT-powered automation** that converts
 - **Postman** – API testing and validation
 - **Command Line Interface** – Execution & integration
 - **Pandas, Matplotlib, Seaborn** – EDA and charting
-- **BLEU, ROUGE Scores** – Output quality validation
 - **GitHub** – Version control and collaboration
 
 ---
