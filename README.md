@@ -12,7 +12,6 @@ Organizations struggle with:
 - Manual, error-prone analysis pipelines
 - Non-scalable analytics for large datasets
 - Barriers for non-technical users to extract value from complex data
-- Rising security & compliance requirements (GDPR, HIPAA, etc.)
 
 We aim to solve these issues with **SecureGPT-powered automation** that converts structured/unstructured data into clear summaries, visualizations, and recommendations — while preserving privacy and security.
 
